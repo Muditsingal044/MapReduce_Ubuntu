@@ -41,4 +41,6 @@ CMD -
 11. hadoop jar ProductSalePerCountry.jar /inputMapReduce11 /mapreduce_output_sales11
 
 12. hadoop fs -cat /mapreduce_output_sales11/part-00000
-............................................................
+
+
+.............................................................................................................
